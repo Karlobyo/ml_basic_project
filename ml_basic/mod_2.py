@@ -1,3 +1,5 @@
+# function for a polynomial lin reg
+
 def poly_lin_reg(x, x1):
     """
     poly lin reg function
