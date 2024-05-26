@@ -1,9 +1,8 @@
-from setuptools import setup
-# this is a basic package setup
+from setuptools import setup, find_packages
 
 setup(name="ml-basic",
       description="ml-basic-package",
       packages=["ml-basic"])
+      packages=find_packages())
 
 
-# modification in branch
