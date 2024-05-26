@@ -1,7 +1,6 @@
 from setuptools import setup
 
-# this is a conflict making modification...hopefully
 
-setup(name="ml-new",
+setup(name="ml-basic",
       description="ml-basic-package",
-      packages=["ml-new"])
+      packages=["ml-basic"])
