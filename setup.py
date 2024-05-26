@@ -1,6 +1,5 @@
 from setuptools import setup
 
-setup(name="ml-basic",
+setup(name="ml",
       description="ml-basic-package",
-      packages=["ml-basic"])
-
+      packages=["ml"])
