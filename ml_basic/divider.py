@@ -7,6 +7,3 @@ def divide(x, y):
 
 
 # this is a modif in main
-
-
-# this is a new modif
